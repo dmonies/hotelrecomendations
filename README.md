@@ -5,7 +5,7 @@ Expedia launched a competition to create a model which would predict which hotel
 
 ## Getting Started
 
-# D# ependencies
+# Dependencies
 •	Jupyter Application 
 •	Python version 3+
 •	Libraries may require installation if they have not been installed previously
