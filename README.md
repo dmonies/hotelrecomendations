@@ -25,6 +25,8 @@ David Meiners
 o	Initial Release
 
 # Acknowledgments
-Feature Selection in Python - https://github.com/Sundar0989/Variable-Selection-Using-Python/blob/master/Variable Selection using Python - Vote based approach.ipynb
+Feature Selection in Python - https://github.com/Sundar0989/Variable-Selection-Using-Python/blob/master/Variable%20Selection%20using%20Python%20-%20Vote%20based%20approach.ipynb
+
 Predictive Framework in Python - https://towardsdatascience.com/end-to-end-python-framework-for-predictive-modeling-b8052bb96a78
+
 Kaggle Expedia Datasets - https://www.kaggle.com/c/expedia-hotel-recommendations/data
