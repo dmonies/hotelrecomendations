@@ -28,11 +28,3 @@ o	Initial Release
 Feature Selection in Python - https://github.com/Sundar0989/Variable-Selection-Using-Python/blob/master/Variable Selection using Python - Vote based approach.ipynb
 Predictive Framework in Python - https://towardsdatascience.com/end-to-end-python-framework-for-predictive-modeling-b8052bb96a78
 Kaggle Expedia Datasets - https://www.kaggle.com/c/expedia-hotel-recommendations/data
-
-
-
-Dataset
-https://www.kaggle.com/c/expedia-hotel-recommendations/data
-
-
-
